@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="250" src="https://giffiles.alphacoders.com/215/215982.gif"  />
-</div>
-
-###
-
 <h2 align="left">About Me</h2>
 
 ###
@@ -45,18 +39,3 @@
 </div>
 
 ###
-
-<!--
-**tutumax/tutumax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
