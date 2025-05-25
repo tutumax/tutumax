@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Tenho experiência em desenvolvimento com Python, além de conhecimentos em HTML, **CSS** e JavaScript.<br><br>🚀 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.<br><br>🎯 No momento, estou procurando oportunidades de emprego ou estágio na área de desenvolvimento web ou programação. Estou aberto a desafios que me permitam crescer profissionalmente e contribuir com soluções inovadoras.<br><br>📫 Você pode entrar em contato comigo através do meu e-mail: @arthurmaximo62@gmail.com</p>
+<p align="left">💻 Tenho experiência em desenvolvimento com Python, além de conhecimentos em HTML, CSS e JavaScript.<br><br>🚀 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.<br><br>🎯 No momento, estou procurando oportunidades de emprego ou estágio na área de desenvolvimento web ou programação. Estou aberto a desafios que me permitam crescer profissionalmente e contribuir com soluções inovadoras.<br><br>📫 Você pode entrar em contato comigo através do meu e-mail: @arthurmaximo62@gmail.com</p>
 
 ###
 
